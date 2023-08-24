@@ -4,9 +4,6 @@
 ## I`m a Machine Learning Engineer/Data Scientist
 
 
-### Statistics
-
-
 ### Languages, Libraries and Tools
 ![Static Badge](https://img.shields.io/badge/Python-a5a3a5?style=for-the-badge&logo=python)
 ![Static Badge](https://img.shields.io/badge/TensorFlow-a5a3a5?style=for-the-badge&logo=tensorflow)
