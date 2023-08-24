@@ -15,7 +15,7 @@
 ![Static Badge](https://img.shields.io/badge/linux-a5a3a5?style=for-the-badge&logo=linux)
 ![Static Badge](https://img.shields.io/badge/SQL-a5a3a5?style=for-the-badge&logo=postgresql)
 ![Static Badge](https://img.shields.io/badge/docker-a5a3a5?style=for-the-badge&logo=docker)
-![Static Badge](https://img.shields.io/badge/apache%20spark-a5a3a5?style=for-the-badge&logo=apachespark)
+![Static Badge](https://img.shields.io/badge/spark-a5a3a5?style=for-the-badge&logo=apachespark)
 
 
 ### Follow me
