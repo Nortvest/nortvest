@@ -19,3 +19,5 @@
 
 
 ### Follow me
+[![Static Badge](https://img.shields.io/badge/telegram-a5a3a5?style=for-the-badge&logo=telegram)](https://t.me/mainname)
+[![Static Badge](https://img.shields.io/badge/vkontakte-a5a3a5?style=for-the-badge&logo=vk&logoColor=0077ff)](https://vk.com/nortvestb)
